@@ -9,6 +9,7 @@ Inspired by
 
 ## Related Efforts
 
+- [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
 
 ## Contributing
 
@@ -18,3 +19,4 @@ Anything goes. Have a look at how existing notes are written
 I like
 [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
 Give it a skim and be convinced.
+
