@@ -1,10 +1,6 @@
 # Deep Learning Paper Notes
 
-This repository is a collaborative effort
-to summarize and help interpret research papers
-vaguely related to deep learning.
-Inspired by
-[dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes).
+This repository is a collaborative effort to summarize and help interpret research papers vaguely related to deep learning. Inspired by [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes).
 
 Papers are subdivided into entirely arbitrary categories.
 
@@ -12,23 +8,18 @@ Papers are subdivided into entirely arbitrary categories.
 
 ### Attention
 
-#### 2015
+#### 2014
 
-- [x] Neural Machine Translation By Jointly Learning To Align and Translate
-  [[notes](attention/2015_bahdanau_neural-machine-translation-by-jointly-learning-to-align-and-translate.md)]
-  [[arXiv](https://arxiv.org/abs/1409.0473)]
-
+*   [ ] Neural Machine Translation by Jointly Learning to Align and Translate [[notes](attention/2014-bahdanau-neural_machine_translation_by_jointly_learning_to_align_and_translate.md)] [[arXiv](https://arxiv.org/abs/1409.0473)]
 
 ## Related Efforts
 
-- [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
+*   [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
 
 ## Contributing
 
 Anything goes. Have a look at how existing notes are written
 
 ### Formatting
-I like
-[semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/).
-Give it a skim and be convinced.
 
+I like [semantic linefeeds](http://rhodesmill.org/brandon/2012/one-sentence-per-line/). Give it a skim and be convinced.
