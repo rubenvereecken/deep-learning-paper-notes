@@ -2,7 +2,6 @@
 
 https://arxiv.org/abs/1704.00784
 
-
 ## Notes
 - Attention mechanism with linear-time complexity (at inference, not training) that works in online settings for monotonic seq2seq
 - Instead of aligning to any input, only forward jumps are allowed from the last selected input. Strong assumption of monotonicity
