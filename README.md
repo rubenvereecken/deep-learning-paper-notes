@@ -6,7 +6,7 @@ vaguely related to deep learning.
 Inspired by
 [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes).
 
-Papers are subdivided by categories.
+Papers are subdivided into entirely arbitrary categories.
 
 ## Papers
 
