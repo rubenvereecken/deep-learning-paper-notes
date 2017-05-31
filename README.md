@@ -24,6 +24,10 @@ It will then add an entry to the `README.md` and a new file under the designated
 
 *   [x] Online and Linear-Time Attention by Enforcing Monotonic Alignments [[notes](attention/2017-raffel-online_and_linear_time_attention_by_enforcing_monotonic_alignments.md)] [[arXiv](https://arxiv.org/abs/1704.00784)]
 
+#### 2016
+
+*   [x] Lip Reading Sentences in the Wild [[notes](attention/2016-chung-lip_reading_sentences_in_the_wild.md)] [[arXiv](https://arxiv.org/abs/1611.05358)]
+
 #### 2015
 
 *   [x] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[notes](attention/2015-xu-show_attend_and_tell_neural_image_caption_generation_with_visual_attention.md)] [[arXiv](https://arxiv.org/abs/1502.03044)]
