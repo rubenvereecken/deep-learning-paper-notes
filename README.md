@@ -29,6 +29,7 @@ It will then add an entry to the `README.md` and a new file under the designated
 *   [x] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[notes](attention/2015-xu-show_attend_and_tell_neural_image_caption_generation_with_visual_attention.md)] [[arXiv](https://arxiv.org/abs/1502.03044)]
 *   [ ] Describing Multimedia Content using Attention-based Encoder-Decoder Networks [[notes](attention/2015-cho-describing_multimedia_content_using_attention_based_encoder_decoder_networks.md)] [[arXiv](https://arxiv.org/abs/1507.01053)]
 *   [x] Effective Approaches to Attention-based Neural Machine Translation [[notes](attention/2015-luong-effective_approaches_to_attention_based_neural_machine_translation.md)] [[arXiv](https://arxiv.org/abs/1508.04025)]
+*   [x] Attention-Based Models for Speech Recognition [[notes](attention/2015-chorowski-attention_based_models_for_speech_recognition.md)] [[arXiv](https://arxiv.org/abs/1506.07503)]
 
 #### 2014
 
