@@ -6,19 +6,15 @@ Papers are subdivided into entirely arbitrary categories.
 
 ## Tooling
 
-There are some tools to help you get started so you can dig in right away.
-You will need `node` and `npm` to use them. Install using:
+There are some tools to help you get started so you can dig in right away. You will need `node` and `npm` to use them. Install using:
 
 `npm install -g https://github.com/rubenvereecken/paper-notes-tools.git`
 
-This will install the executable `add-paper`,
-which currently just works for arXiv URLs.
-Use it like:
+This will install the executable `add-paper`, which currently just works for arXiv URLs. Use it like:
 
 `add-paper https://arxiv.org/abs/1704.00784 --category=attention`
 
-It will then add an entry to the `README.md`
-and a new file under the designated category.
+It will then add an entry to the `README.md` and a new file under the designated category.
 
 ## Papers
 
@@ -31,6 +27,10 @@ and a new file under the designated category.
 #### 2014
 
 *   [ ] Neural Machine Translation by Jointly Learning to Align and Translate [[notes](attention/2014-bahdanau-neural_machine_translation_by_jointly_learning_to_align_and_translate.md)] [[arXiv](https://arxiv.org/abs/1409.0473)]
+
+#### 2015
+
+*   [ ] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[notes](attention/2015-xu-show_attend_and_tell_neural_image_caption_generation_with_visual_attention.md)] [[arXiv](https://arxiv.org/abs/1502.03044)]
 
 ## Related Efforts
 
