@@ -6,3 +6,6 @@ https://arxiv.org/abs/1507.01053
 Review of attention methods.
 
 ## Notes
+
+## Thoughts
+Good unified notation.
