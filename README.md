@@ -4,6 +4,22 @@ This repository is a collaborative effort to summarize and help interpret resear
 
 Papers are subdivided into entirely arbitrary categories.
 
+## Tooling
+
+There are some tools to help you get started so you can dig in right away.
+You will need `node` and `npm` to use them. Install using:
+
+`npm install -g https://github.com/rubenvereecken/paper-notes-tools.git`
+
+This will install the executable `add-paper`,
+which currently just works for arXiv URLs.
+Use it like:
+
+`add-paper https://arxiv.org/abs/1704.00784 --category=attention`
+
+It will then add an entry to the `README.md`
+and a new file under the designated category.
+
 ## Papers
 
 ### Attention
