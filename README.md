@@ -22,15 +22,15 @@ It will then add an entry to the `README.md` and a new file under the designated
 
 #### 2017
 
-*   [ ] Online and Linear-Time Attention by Enforcing Monotonic Alignments [[notes](attention/2017-raffel-online_and_linear_time_attention_by_enforcing_monotonic_alignments.md)] [[arXiv](https://arxiv.org/abs/1704.00784)]
-
-#### 2014
-
-*   [ ] Neural Machine Translation by Jointly Learning to Align and Translate [[notes](attention/2014-bahdanau-neural_machine_translation_by_jointly_learning_to_align_and_translate.md)] [[arXiv](https://arxiv.org/abs/1409.0473)]
+*   [x] Online and Linear-Time Attention by Enforcing Monotonic Alignments [[notes](attention/2017-raffel-online_and_linear_time_attention_by_enforcing_monotonic_alignments.md)] [[arXiv](https://arxiv.org/abs/1704.00784)]
 
 #### 2015
 
-*   [ ] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[notes](attention/2015-xu-show_attend_and_tell_neural_image_caption_generation_with_visual_attention.md)] [[arXiv](https://arxiv.org/abs/1502.03044)]
+*   [x] Show, Attend and Tell: Neural Image Caption Generation with Visual Attention [[notes](attention/2015-xu-show_attend_and_tell_neural_image_caption_generation_with_visual_attention.md)] [[arXiv](https://arxiv.org/abs/1502.03044)]
+
+#### 2014
+
+*   [x] Neural Machine Translation by Jointly Learning to Align and Translate [[notes](attention/2014-bahdanau-neural_machine_translation_by_jointly_learning_to_align_and_translate.md)] [[arXiv](https://arxiv.org/abs/1409.0473)]
 
 ## Related Efforts
 
