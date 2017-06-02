@@ -43,7 +43,7 @@ It will then add an entry to the `README.md` and a new file under the designated
 
 #### 2016
 
-*   [ ] On the Expressive Power of Deep Neural Networks [[notes](neural-networks/2016-raghu-on_the_expressive_power_of_deep_neural_networks.md)] [[arXiv](https://arxiv.org/abs/1606.05336)]
+*   [x] On the Expressive Power of Deep Neural Networks [[notes](neural-networks/2016-raghu-on_the_expressive_power_of_deep_neural_networks.md)] [[arXiv](https://arxiv.org/abs/1606.05336)]
 
 ## Related Efforts
 
