@@ -39,6 +39,12 @@ It will then add an entry to the `README.md` and a new file under the designated
 
 *   [x] Neural Machine Translation by Jointly Learning to Align and Translate [[notes](attention/2014-bahdanau-neural_machine_translation_by_jointly_learning_to_align_and_translate.md)] [[arXiv](https://arxiv.org/abs/1409.0473)]
 
+### Neural Networks
+
+#### 2016
+
+*   [ ] On the Expressive Power of Deep Neural Networks [[notes](neural-networks/2016-raghu-on_the_expressive_power_of_deep_neural_networks.md)] [[arXiv](https://arxiv.org/abs/1606.05336)]
+
 ## Related Efforts
 
 *   [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
