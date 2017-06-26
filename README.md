@@ -23,7 +23,7 @@ It will then add an entry to the `README.md` and a new file under the designated
 #### 2017
 
 *   [x] Online and Linear-Time Attention by Enforcing Monotonic Alignments [[notes](attention/2017-raffel-online_and_linear_time_attention_by_enforcing_monotonic_alignments.md)] [[arXiv](https://arxiv.org/abs/1704.00784)]
-*   [ ] Attention Is All You Need [[notes](attention/2017-vaswani-attention_is_all_you_need.md)] [[arXiv](https://arxiv.org/abs/1706.03762)]
+*   [x] Attention Is All You Need [[notes](attention/2017-vaswani-attention_is_all_you_need.md)] [[arXiv](https://arxiv.org/abs/1706.03762)]
 
 #### 2016
 
