@@ -47,6 +47,12 @@ It will then add an entry to the `README.md` and a new file under the designated
 
 *   [x] On the Expressive Power of Deep Neural Networks [[notes](neural-networks/2016-raghu-on_the_expressive_power_of_deep_neural_networks.md)] [[arXiv](https://arxiv.org/abs/1606.05336)]
 
+### Neural-networks
+
+#### 2015
+
+*   [ ] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift [[notes](neural-networks/2015-ioffe-batch_normalization_accelerating_deep_network_training_by_reducing_internal_covariate_shift.md)] [[arXiv](https://arxiv.org/abs/1502.03167)]
+
 ## Related Efforts
 
 *   [dennybritz/deeplearning-papernotes](https://github.com/dennybritz/deeplearning-papernotes)
